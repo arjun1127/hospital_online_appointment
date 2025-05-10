@@ -29,7 +29,7 @@ export default async function  NewAppointment({params:{userId}}){
       </section>
 
       <Image
-        src="/assets/images/register-img.jpeg"
+        src="/assets/images/register.png"
         height={1000}
         width={1000}
         alt="appointment"
