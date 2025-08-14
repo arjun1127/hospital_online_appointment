@@ -2,7 +2,7 @@
 
 Appoint Vaidhya is a modern **healthcare and patient appointment booking system** built using **Next.js**, **Tailwind CSS**, and **Appwrite**.  
 It allows patients to register, book appointments with available doctors, and view booking details, while enabling admins (doctors/hospital staff) to manage, accept, reschedule, or decline appointments.
- # Visit - [https://github.com/arjun1127/hospital_online_appointment.git](https://hospital-online-appointment.vercel.app/admin)
+ # Visit - https://hospital-online-appointment.vercel.app/
 
 ---
 
@@ -45,8 +45,8 @@ It allows patients to register, book appointments with available doctors, and vi
 ## 🚀 Getting Started
 
 ### 1 Clone the Repository
-[git clone https://github.com/arjun1127/hospital_online_appointment.git](https://github.com/arjun1127/hospital_online_appointment.git)
 ```
+git clone https://github.com/arjun1127/hospital_online_appointment.git
 cd hospital_online_appointment
 
 ```
