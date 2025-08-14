@@ -44,8 +44,8 @@ It allows patients to register, book appointments with available doctors, and vi
 ## 🚀 Getting Started
 
 ### 1 Clone the Repository
-```bash
 [git clone https://github.com/yourusername/hospital_online_appointment.git](https://github.com/arjun1127/hospital_online_appointment.git)
+```
 cd hospital_online_appointment
 
 ```
